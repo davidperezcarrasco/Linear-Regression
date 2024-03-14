@@ -1,0 +1,1 @@
+This project utilizes linear regression and statistical techniques to build a predictive model for Taipei real estate prices. The model leverages a curated and cleaned dataset containing features like size, distance to stations, and convenience store proximity to accurately estimate the price of a Taipei property based on a set of input features.
